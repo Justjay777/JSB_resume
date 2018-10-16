@@ -1,1 +1,1 @@
-# JSB_resume
+# JSB_core_content_resume
